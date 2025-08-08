@@ -23,7 +23,7 @@
 <a href="https://www.facebook.com/share/1CzarUKe3q/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1czaruke3q/?mibextid=wwxifr" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harshanajayanindu?igsh=dDgzemExa2VhNGtn&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/harshanajayanindu?igsh=ddgzemexa2vhngtn&utm_source=qr" height="30" width="40" /></a>
 <a href="https://www.behance.net/harshanjayanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/harshanjayanin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@masterofdesigning6756?si=we0xzp8qciohn3ef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@masterofdesigning6756?si=we0xzp8qciohn3ef" height="30" width="40" /></a>
+<a href="https://youtube.com/@masterofdesigning6756?si=wE0XZp8qcIoHN3EF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@masterofdesigning6756?si=we0xzp8qciohn3ef" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
